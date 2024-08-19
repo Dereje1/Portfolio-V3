@@ -122,11 +122,13 @@ const educationInfo = {
       schoolName: "Purdue School of Engineering and Technology",
       subHeader: "Master of Science (M.Sc.), Mechanical Engineering",
       duration: "Indianapolis, IN | May, 2005",
+      logo:require("./assets/images/purdue.jpg"),
     },
     {
       schoolName: "Purdue School of Engineering and Technology",
       subHeader: "Bachelor of Science (B.Sc.), Mechanical Engineering",
       duration: "Indianapolis, IN | Dec, 1998",
+      logo:require("./assets/images/purdue.jpg"),
     }
   ]
 };
