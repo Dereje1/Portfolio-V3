@@ -1,12 +1,13 @@
 {
   "files": {
-    "main.css": "/Portfolio-V3/static/css/main.1c602840.css",
-    "main.js": "/Portfolio-V3/static/js/main.d96cdd9f.js",
+    "main.css": "/Portfolio-V3/static/css/main.d8347a5c.css",
+    "main.js": "/Portfolio-V3/static/js/main.1689fd32.js",
     "static/css/64.bba8fa55.chunk.css": "/Portfolio-V3/static/css/64.bba8fa55.chunk.css",
     "static/js/64.56dc6704.chunk.js": "/Portfolio-V3/static/js/64.56dc6704.chunk.js",
     "static/css/769.b3cbb36b.chunk.css": "/Portfolio-V3/static/css/769.b3cbb36b.chunk.css",
     "static/js/769.bda0d7b7.chunk.js": "/Portfolio-V3/static/js/769.bda0d7b7.chunk.js",
     "static/media/Montserrat-Regular.ttf": "/Portfolio-V3/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
+    "static/media/purdue.jpg": "/Portfolio-V3/static/media/purdue.a368fbc1455df4dfeb13.jpg",
     "static/media/Agustina.woff": "/Portfolio-V3/static/media/Agustina.eb0c59dda4cc308cba96.woff",
     "static/media/oneglobe.png": "/Portfolio-V3/static/media/oneglobe.34a88318d67440275371.png",
     "static/media/freelance.png": "/Portfolio-V3/static/media/freelance.21523c3a5423c0336e83.png",
@@ -20,15 +21,15 @@
     "static/media/nextuLogo.webp": "/Portfolio-V3/static/media/nextuLogo.e033dbfa4c58c0a906aa.webp",
     "index.html": "/Portfolio-V3/index.html",
     "static/media/talksCardBack.svg": "/Portfolio-V3/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
-    "main.1c602840.css.map": "/Portfolio-V3/static/css/main.1c602840.css.map",
-    "main.d96cdd9f.js.map": "/Portfolio-V3/static/js/main.d96cdd9f.js.map",
+    "main.d8347a5c.css.map": "/Portfolio-V3/static/css/main.d8347a5c.css.map",
+    "main.1689fd32.js.map": "/Portfolio-V3/static/js/main.1689fd32.js.map",
     "64.bba8fa55.chunk.css.map": "/Portfolio-V3/static/css/64.bba8fa55.chunk.css.map",
     "64.56dc6704.chunk.js.map": "/Portfolio-V3/static/js/64.56dc6704.chunk.js.map",
     "769.b3cbb36b.chunk.css.map": "/Portfolio-V3/static/css/769.b3cbb36b.chunk.css.map",
     "769.bda0d7b7.chunk.js.map": "/Portfolio-V3/static/js/769.bda0d7b7.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1c602840.css",
-    "static/js/main.d96cdd9f.js"
+    "static/css/main.d8347a5c.css",
+    "static/js/main.1689fd32.js"
   ]
 }
