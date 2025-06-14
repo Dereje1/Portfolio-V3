@@ -23,7 +23,7 @@ const greeting = {
   username: "Dereje Getahun",
   title: "Hi all, I'm Dereje",
   subTitle: emoji(
-    "A versatile Full Stack Web Developer 🚀 with 5+ years of experience in Web applications with React / Node / AWS Lambda / Java Spring Boot and other cool technologies. Also a Mechanical Engineer with a M.Sc. degree and 10+ years of engineering experience."
+    "A versatile Full Stack Web Developer 🚀 with 7+ years of experience in Web applications with React / Node / AWS Lambda / Java Spring Boot and other cool technologies. Also a Mechanical Engineer with a M.Sc. degree and 10+ years of engineering experience."
   ),
   resumeLink:
     "https://drive.google.com/file/d/1SA6YsQ5CFkDN9b6sXL52Jax1UfB0jFOO/view?usp=drive_link", // Set to empty to hide the button
